@@ -1,0 +1,7 @@
+* Notes
+
+- `default_nettype None
+   - enforce a "strict mode" i.e. avoid implicit declaration of variables and ports (usually as wires) and used at the top of the code.
+   - /backtick/ signifies a "compiler directive"
+   - "Net" represents a physical connection between components and usually it doesn't store value and rather carries the value e.g. wires
+  
