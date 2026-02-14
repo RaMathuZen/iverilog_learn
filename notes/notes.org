@@ -6,5 +6,7 @@
    - "Net" represents a physical connection between components and usually it doesn't store value and rather carries the value e.g. wires
 
 - `timescale <unit>/<precision>
-  - 1ns/1ps is commonly used with FPGA and ASIC RTL because, for a balance in accuracy & sinulation speed     
+  - 1ns/1ps is commonly used with FPGA and ASIC RTL because, for a balance in accuracy & simulation speed
+
+- reg, always@ and non-blocking assignments    
   
